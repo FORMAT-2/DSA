@@ -1,6 +1,6 @@
-# Striver's A to Z DSA Sheet
+# DSA Sheet
 
-Here is the comprehensive list of DSA questions from the Striver A to Z sheet. The links now point exactly to the problem on LeetCode.
+Comprehensive list of DSA questions All patterns. The links now point exactly to the problem on LeetCode.
 
 
 ## 01.Arrays
